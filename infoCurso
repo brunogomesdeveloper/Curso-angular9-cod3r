@@ -1,0 +1,8 @@
+Iniciar package.json 
+npm init -y
+
+Instalando json-server
+npm -i json-server
+
+Criar projeto com arquivos minimos para funcionamento
+ ng new frontend --minimal
