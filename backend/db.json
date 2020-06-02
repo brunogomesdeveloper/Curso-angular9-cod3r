@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Caneta BIC Azul",
+      "price": "6.50"
     },
     {
       "id": 2,
@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Sansung S20 plus",
       "price": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890",
+      "id": 5
     }
   ]
 }

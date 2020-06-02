@@ -6,3 +6,7 @@ npm -i json-server
 
 Criar projeto com arquivos minimos para funcionamento
  ng new frontend --minimal
+
+ Instlando material designer do google 
+
+ ng add @angular/material
