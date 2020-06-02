@@ -31,8 +31,6 @@ export class ProductService {
     )
   }
 
-
-
   read():Observable<Product[]>{
     return this.http.get<Product[]>(this.baseUrl).pipe(
       map(obj => obj),
